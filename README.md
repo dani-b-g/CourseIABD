@@ -7,8 +7,11 @@ Material y ejercicios prácticos para la asignatura PIA incluidos en este reposi
 
 ## Ejercicio 1 — Procesamiento de una lista de enteros
 Descripción: función que elimina números negativos, elimina duplicados y devuelve la lista ordenada.
-- Código: [src/ejercicio_1/main.py](PIA/ejercicios/src/src/ejercicio_1/main.py)  
+- Código: [src/ejercicio_1/main.py](PIA/ejercicios/src/ejercicio_1/main.py)  
 - Función principal: [`process_numbers`](PIA/ejercicios/src/ejercicio_1/main.py)
+
+Raw (reemplaza `USER`, `REPO`, `BRANCH` por tu usuario, repo y rama):  
+https://raw.githubusercontent.com/USER/REPO/BRANCH/PIA/ejercicios/src/ejercicio_1/main.py
 
 Ejecutar:
 ```bash
@@ -23,8 +26,27 @@ Descripción: función que cuenta cuántas veces aparecen unas palabras dadas en
 - Código: [src/ejercicio_2/main.py](PIA/ejercicios/src/ejercicio_2/main.py)  
 - Función principal: [`frecuencia_palabras`](PIA/ejercicios/src/ejercicio_2/main.py)
 
+Raw (reemplaza `USER`, `REPO`, `BRANCH` por tu usuario, repo y rama):  
+https://raw.githubusercontent.com/USER/REPO/BRANCH/PIA/ejercicios/src/ejercicio_2/main.py
+
 Ejecutar:
 ```bash
 cd /workspaces/CourseIABD/PIA/ejercicios/src/ejercicio_2
+python3 main.py
+```
+
+---
+
+## Ejercicio 3 — Script adicional (main.py)
+Descripción: script adicional incluido en el ejercicio 3. Revisa el archivo para ver el comportamiento concreto (entrada/salida y funciones implementadas).
+- Código: [src/ejercicio_3/main.py](PIA/ejercicios/src/ejercicio_3/main.py)  
+- Punto de entrada: `main.py`
+
+Raw (reemplaza `USER`, `REPO`, `BRANCH` por tu usuario, repo y rama):  
+https://raw.githubusercontent.com/USER/REPO/BRANCH/PIA/ejercicios/src/ejercicio_3/main.py
+
+Ejecutar:
+```bash
+cd /workspaces/CourseIABD/PIA/ejercicios/src/ejercicio_3
 python3 main.py
 ```
